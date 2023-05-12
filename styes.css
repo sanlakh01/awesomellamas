@@ -7,36 +7,36 @@ body {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 100%;
 	line-height: 1.6em;
-	color: #333;
-	background-color: #EBEBEB;
+	color: #402f2f;
+	background-color: #e4c7c7;
 	text-align: center;
 }
 header {
 	font-size: 3em;
 	line-height: 150px;
-	color: #F60;
-	background-color: #FFF;
+	color: rgb(208, 136, 42);
+	background-color: #d0c5c5;
 	height: 150px;
 	width: 800px;
 }
 #container {
 	margin-right: auto;
 	margin-left: auto;
-	background-color: #FFF;
+	background-color: #c19a9a;
 	width: 800px;
 	overflow: hidden;
 	margin-top: 30px;
 	margin-bottom:30px;
 }
 #sidebar {
-	background-color: #FFF;
+	background-color: #dcb3b3;
 	text-align: left;
 	float: left;
 	width: 150px;
 	padding-left: 20px;
 	border-right-width: 1px;
 	border-right-style: inset;
-	border-right-color: #E7E7E7;
+	border-right-color: #595454;
 }
 #sidebar ul {
 	padding-left: 15px;
@@ -51,7 +51,7 @@ header {
 }
 #maincontent {
 	font-size: .8em;
-	background-color: #FFF;
+	background-color: #f0cdcd;
 	text-align: left;
 	float: right;
 	width: 580px;
@@ -61,12 +61,12 @@ header {
 	padding-left: 20px;
 }
 #sidebar ul li a:hover {
-	color: #F60;
+	color: rgb(224, 136, 77);
 	text-decoration: underline;
 }
 #sidebar ul li a {
 	font-weight: bold;
-	color: #006;
+	color: rgb(34, 34, 196);
 	text-decoration: none;
 }
 p {
@@ -107,3 +107,4 @@ img.alignleft {
 .alignleft {
 	float: left
 	}
+/* adding some stuff lololol. did you know that i can add stuff? well, i can add things. */
